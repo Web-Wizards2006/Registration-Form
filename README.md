@@ -14,7 +14,7 @@ The purpose of this project is to showcase my skills in web development by creat
 - JavaScript
 
 ## Usage
-Simply open the `index.html` file in your browser, and you will see the registration form interface. Users can fill out the form and submit their information.
+Simply open the `Registration form.html` file in your browser, and you will see the registration form interface. Users can fill out the form and submit their information.
 
 ## Screenshots
 ![Registration Form Screenshot](![image](https://github.com/user-attachments/assets/2bc35c74-936f-4054-90ae-38eb064a9757)
